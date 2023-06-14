@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1673901945 source:c:\users\troce\documents\projektzal\main.cpp
+	<cstdlib>
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<fstream>
+	<time.h>
+	"ddtconsole.h"
+	"menu.h"
+	"ksiazki.h"
+	"czytelnicy.h"
+
+1263219856 c:\users\troce\documents\projektzal\ddtconsole.h
+	<windows.h>
+
+1673902225 c:\users\troce\documents\projektzal\menu.h
+
+1673901396 c:\users\troce\documents\projektzal\ksiazki.h
+
+1672956158 c:\users\troce\documents\projektzal\dokumenty.h
+
+1672962530 c:\users\troce\documents\projektzal\wyswietl.h
+
+1672963884 c:\users\troce\documents\projektzal\porzadki.h
+
+1673036771 c:\users\troce\documents\projektzal\czytelnicy.h
+

@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1676033402 source:c:\users\troce\documents\programbibliotekarz\programbibliotekarz\main.cpp
+	<cstdlib>
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<fstream>
+	<time.h>
+	<string>
+	"ddtconsole.h"
+	"struktury.h"
+	"ksiazki.h"
+	"czytelnicy.h"
+	"pracownicy.h"
+	"wypozycz.h"
+	"zwrot.h"
+	"zamowienia.h"
+
+1675707165 c:\users\troce\documents\programbibliotekarz\programbibliotekarz\ddtconsole.h
+	<windows.h>
+	<conio.h>
+
+1675707170 c:\users\troce\documents\programbibliotekarz\programbibliotekarz\struktury.h
+
+1675795880 c:\users\troce\documents\programbibliotekarz\programbibliotekarz\menu.h
+
+1676032552 c:\users\troce\documents\programbibliotekarz\programbibliotekarz\ksiazki.h
+
+1675797494 c:\users\troce\documents\programbibliotekarz\programbibliotekarz\czytelnicy.h
+
+1675795432 c:\users\troce\documents\programbibliotekarz\programbibliotekarz\pracownicy.h
+
+1675797494 c:\users\troce\documents\programbibliotekarz\programbibliotekarz\wypozycz.h
+
+1675795975 c:\users\troce\documents\programbibliotekarz\programbibliotekarz\zwrot.h
+
+1676032533 c:\users\troce\documents\programbibliotekarz\programbibliotekarz\zamowienia.h
+
